@@ -1,6 +1,13 @@
 {
 	"nodes":[
-		{"id":"25ce057d92ddbacd","x":-270,"y":-101,"width":400,"height":400,"type":"file","file":"Sony a6400 Menu.md"}
+		{"id":"c99d1f4cd16abbaf","x":-648,"y":81,"width":400,"height":300,"type":"file","file":"Pasted image 20250226170836.png"},
+		{"id":"f8d5c36555d1102c","x":-240,"y":81,"width":400,"height":300,"type":"file","file":"Pasted image 20250226170950.png"},
+		{"id":"6d0b871c7e42a861","x":-160,"y":480,"width":400,"height":400,"type":"file","file":"README.md"},
+		{"id":"1bcb72f549fd2936","x":-720,"y":480,"width":400,"height":400,"type":"file","file":"Modes and memory.md"},
+		{"id":"6531cab05901bda4","type":"file","file":"Buttons.md","x":-720,"y":-440,"width":400,"height":400},
+		{"id":"25ce057d92ddbacd","type":"file","file":"Sony a6400 Menu.md","x":-160,"y":-440,"width":400,"height":400},
+		{"id":"f7b21c79b4ece256","x":320,"y":31,"width":400,"height":400,"type":"file","file":"Photography.md"},
+		{"id":"39cad5fa19524230","x":-1200,"y":31,"width":400,"height":400,"type":"link","url":"https://helpguide.sony.net/ilc/1810/v1/en/index.html"}
 	],
 	"edges":[]
 }

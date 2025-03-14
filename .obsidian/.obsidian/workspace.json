@@ -1,29 +1,20 @@
 {
   "main": {
-    "id": "b598883a86900621",
+    "id": "057520a6ffdd2b03",
     "type": "split",
     "children": [
       {
-        "id": "b4b0b2a6df206a18",
+        "id": "3787d3304e1eb6f5",
         "type": "tabs",
         "children": [
           {
-            "id": "a39d9e54886facb5",
+            "id": "ab454b7989e56f27",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "0_Sony_a6400.canvas",
-                "viewState": {
-                  "x": -240,
-                  "y": 220,
-                  "zoom": -1.1550975837646733
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "0_Sony_a6400"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -32,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "15f3120bbb142328",
+    "id": "36a7dea405fcf957",
     "type": "split",
     "children": [
       {
-        "id": "897f1080b4452b41",
+        "id": "85cda3c2f9ece4a2",
         "type": "tabs",
         "children": [
           {
-            "id": "c365149597f76cd8",
+            "id": "866614e296ad70a3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -53,7 +44,7 @@
             }
           },
           {
-            "id": "2269e82745ee18ee",
+            "id": "13470de46eab64c0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +61,7 @@
             }
           },
           {
-            "id": "0c7687d11cbaec7f",
+            "id": "542bb0e1176eedbd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,29 +70,26 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "216a0a9892bd5a68",
+    "id": "15def4d01d1f96d0",
     "type": "split",
     "children": [
       {
-        "id": "509e16ded8f89d17",
+        "id": "cabb480bc6779ae9",
         "type": "tabs",
         "children": [
           {
-            "id": "cb1ae33a36a5e439",
+            "id": "f63c8c00a0c63d1a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20250226170836.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20250226170836"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "df56b4cb228da695",
+            "id": "f710e3821329ae2e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Buttons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Buttons"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "05b2a9a0bbff3e79",
+            "id": "3771719f82db2b57",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,18 +131,17 @@
             }
           },
           {
-            "id": "f4c156f31d4768ef",
+            "id": "48dd45dc8f9df12e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Buttons.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Buttons"
+              "title": "Outline"
             }
           }
         ]
@@ -175,16 +161,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a39d9e54886facb5",
-  "lastOpenFiles": [
-    "Modes and memory.md",
-    "0_Sony_a6400.canvas",
-    "Pasted image 20250226171643.png",
-    "Pasted image 20250226170950.png",
-    "Pasted image 20250226170836.png",
-    "Photography.md",
-    "README.md",
-    "Buttons.md",
-    "Sony a6400 Menu.md"
-  ]
+  "active": "ab454b7989e56f27",
+  "lastOpenFiles": []
 }
